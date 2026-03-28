@@ -1,0 +1,37 @@
+{
+    "mika": {
+        "nome": "Mikaela Borea Toril",
+        "level": 3,
+        "hp": "150/150",
+        "mana": "10/10",
+        "aureas": "1000"
+    },
+    "seth": {
+        "nome": "Seth",
+        "level": 3,
+        "hp": "150/150",
+        "mana": "10/10",
+        "aureas": 1000
+    },
+    "sayuria": {
+        "nome": "Sayuria Naminelle",
+        "hp": "150/150",
+        "mana": "10/10",
+        "level": 3,
+        "aureas": 1000
+    },
+    "sophie": {
+        "nome": "Sophie",
+        "level": 1,
+        "hp": "150/150",
+        "mana": "10/10",
+        "aureas": 1000
+    },
+    "venus": {
+        "nome": "Venus de Azhdaha",
+        "level": 3,
+        "hp": "150/150",
+        "mana": "10/10",
+        "aureas": 1000
+    }
+}
